@@ -1,10 +1,11 @@
 # starbase
 
 > A Vue.js project
+> Introductory VueJS project which allows a user to randomly select a team of Star Wars characters
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
